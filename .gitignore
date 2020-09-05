@@ -1,0 +1,7 @@
+cachefile.dbm
+__pycache__/
+*.mkv
+*.srt
+*.mp4
+*.avi
+*.lock
