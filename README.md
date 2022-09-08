@@ -2,6 +2,7 @@
 Python scripts to organize movie files
 
 ## Dependencies:
-- [imdbpy](https://github.com/alberanid/imdbpy)
+- [cinemagoer](https://github.com/cinemagoer/cinemagoer)
 - [subliminal](https://github.com/Diaoul/subliminal)
 
+*To get subtitles set your opensubtitles credentials in .env file like .env.example
